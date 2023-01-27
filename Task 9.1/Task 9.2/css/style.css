@@ -1,0 +1,10 @@
+a[target] {
+  background-color: yellow;
+  font-size:20px;
+}
+[title~=anime] {
+  border: 10px solid red;
+}
+[class$="hello"] {
+  background: yellow;
+}

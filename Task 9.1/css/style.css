@@ -1,0 +1,23 @@
+section  p {
+	text-align:left;
+	background-color:brown;
+	border:2px solid black;
+}
+aside > p{
+ text-align:center;
+ background:purple;
+}
+div + p {
+ color:orange;
+}
+
+article ~ p{
+background-color:gold;
+}
+
+
+a {
+	text-align:center;
+
+	font-size:15px;
+}

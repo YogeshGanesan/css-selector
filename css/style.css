@@ -1,0 +1,23 @@
+
+/* element selector */
+div{
+color:yellow;
+}
+/* Id selector */
+#yes{
+color:pink;
+}
+/* Class selector */
+.false{
+	color:white;
+background-color:grey;
+}
+/* Universal selector */
+*{
+	margin-top:15px;
+}
+/* using anchor tag */
+a {
+	text-align:Right;
+	font-size:15px;
+}
